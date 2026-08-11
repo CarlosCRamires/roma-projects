@@ -1,4 +1,4 @@
-Exploratory tests on Crimson Roman for legal and academic workflows
+[Exploratory tests on Crimson Roman for legal and academic workflows]
 
 This repository contains a series of exploratory tests performed on Crimson Roman in the context of legal and academic writing. The samples were produced in FontForge and evaluated both on‑screen and in print, with the goal of understanding how Crimson behaves under digital‑first workflows and low‑quality office printing.
 
