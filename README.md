@@ -9,3 +9,9 @@ These tests were carried out in FontForge, supported by AI‑assisted analysis (
 - OTF vs TTF rendering robustness
 - stability under weak anti‑aliasing and coarse rasterization
 - The findings are practical observations, not typographic doctrine, and aim to highlight how Crimson can be adapted or reconsidered for contemporary document‑production realities.
+
+Thank you and "obrigado".
+
+The Carmesine recast Project
+
+email: carmesine-projects@hotmail.com
